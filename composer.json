@@ -1,0 +1,27 @@
+{
+  "name": "kadokweb/paginator",
+  "description": "The Paginator is ready to generate display navigation from page to page.",
+  "keywords": [
+    "Kadokweb",
+    "Doka",
+    "Pagination",
+    "Paginator"
+  ],
+  "homepage": "https://www.kadokweb.com.br",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Doka B. Silva",
+      "email": "doka@kadokweb.com.br",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^7.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "KadokWeb\\Paginator\\": "src"
+    }
+  }
+}
