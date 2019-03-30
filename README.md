@@ -88,8 +88,8 @@ Thank you
 
 ## Credits
 
-- [Robson V. Leite](https://github.com/kadokweb) (Developer)
-- [UpInside Treinamentos](https://github.com/upinside) (Team)
+- [Doka B. Silva](https://github.com/kadokweb) (Developer)
+- [KadokWeb](https://github.com/kadokweb) (Team)
 - [All Contributors](https://github.com/kadokweb/paginator/contributors)
 
 ## License
