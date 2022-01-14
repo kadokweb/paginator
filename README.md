@@ -40,7 +40,7 @@ composer require KadokWeb/paginator
 or run
 
 ```bash
-"KadokWeb/paginator": "1.0.*"
+"kadokeeb/paginator": "1.0.*"
 ```
 
 ## Documentation
