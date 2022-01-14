@@ -1,0 +1,27 @@
+{
+  "name": "KadokWeb/paginator",
+  "description": "Paginator is simple and is ready to generate results navigation in your application",
+  "keywords": [
+    "KadokWeb",
+    "kadok",
+    "Pagination",
+    "Paginator"
+  ],
+  "homepage": "http://www.kadok.com.br",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Doka Silva",
+      "email": "doka@kadok.com.br",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "KadokWeb\\Paginator\\": "src"
+    }
+  }
+}
